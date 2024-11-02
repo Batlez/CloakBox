@@ -1,11 +1,11 @@
 # CloakBox
 **Bypass virtual machine detection using a fork of VirtualBox**
 
-This VirtualBox fork bypasses virtual machine detection mechanisms often used by proctoring software and anti-cheat systems. Employing the techniques and strategies developed by [Vektor T13](https://detect.expert/). This tool aims to enhance user privacy and security. Please contact me on Discord: Croakq, if you have any issues. It still works in 2024!
+This VirtualBox fork bypasses virtual machine detection mechanisms often used by proctoring software and anti-cheat systems. Employing the techniques and strategies developed by [Vektor T13](https://detect.expert/). This tool aims to enhance user privacy and security. Please contact me on Discord: Croakq, if you have any issues. It still works in 2024! Please watch Youtube Video if you are confused or lost: https://www.youtube.com/watch?v=ljV_vqNCgJs
 
 [VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
 
-[Download from here](https://www.mediafire.com/folder/wyy80hf59kd9r/HiddenVM) if you get errors from downloading from releases!
+[Download from here](https://www.mediafire.com/file/41efgsddiwtnpkf/HiddenVM.zip/file) if you get errors from downloading from releases!
 
 Some proctoring software that this bypasses are: Examity, Respondus (LockDown Browser), Safe Exam Browser, Proctoru Guardian and Pearson VUE.
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
