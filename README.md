@@ -5,7 +5,7 @@ This VirtualBox fork bypasses virtual machine detection mechanisms often used by
 
 [VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
 
-[Download from here](https://www.mediafire.com/file/41efgsddiwtnpkf/HiddenVM.zip/file) if you get errors from downloading from releases!
+[Download from here](https://www.mediafire.com/file/41efgsddiwtnpkf/HiddenVM.zip/file) or from [here](https://github.com/Batlez/CloakBox/releases)
 
 Some proctoring software that this bypasses are: Examity, Respondus (LockDown Browser), Safe Exam Browser, Proctoru Guardian and Pearson VUE.
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
