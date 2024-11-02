@@ -1,9 +1,7 @@
-# HiddenVM
-**Virtual Machine Detection Evasion Executable**
+# CloakBox
+**Bypass virtual machine detection using a fork of VirtualBox**
 
-Bypass virtual machine detection using a custom made VirtualBox 
-
-This executable facilitates bypassing virtual machine detection mechanisms often used by proctoring software and anti-cheat systems. Employing the techniques and strategies developed by [Vektor T13](https://detect.expert/). This tool aims to enhance user privacy and security. Please contact me on Discord: Croakq, if you have any issues. It still works in 2024!
+This VirtualBox fork bypasses virtual machine detection mechanisms often used by proctoring software and anti-cheat systems. Employing the techniques and strategies developed by [Vektor T13](https://detect.expert/). This tool aims to enhance user privacy and security. Please contact me on Discord: Croakq, if you have any issues. It still works in 2024!
 
 [VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
 
