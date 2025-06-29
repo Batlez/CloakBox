@@ -1,28 +1,45 @@
-# CloakBox
-**Bypass virtual machine detection using a fork of VirtualBox**
+# CloakBox - VM Detection Bypass 🛡️
+
+**Bypass virtual machine detection using a custom VirtualBox fork**
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Batlez/CloakBox/total?style=for-the-badge)
 
-This VirtualBox fork bypasses virtual machine detection mechanisms often used by proctoring software and anti-cheat systems. Employing the techniques and strategies developed by [Vektor T13](https://detect.expert/). This tool aims to enhance user privacy and security. Please contact me on Discord: Croakq, if you have any issues. It still works in 2024! Please watch [Youtube Video](https://www.youtube.com/watch?v=ljV_vqNCgJs) if you are confused or lost
+Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ Setup time: ~30 minutes
 
-[VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
+## 📥 Download
+- **Primary**: [GitHub Releases](https://github.com/Batlez/CloakBox/releases)
+- **Virus Scan**: [VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
 
-[Download from here](https://www.mediafire.com/file/41efgsddiwtnpkf/HiddenVM.zip/file) or from [here](https://github.com/Batlez/CloakBox/releases)
+## 🎯 What it bypasses
+✅ Examity | ✅ Respondus | ✅ Safe Exam Browser | ✅ ProctorU | ✅ Pearson VUE | ✅ Lockdown Browser | ✅ Honorlock | ✅ Guardian
 
-Some proctoring software that this bypasses are: Examity, Respondus (LockDown Browser), Safe Exam Browser, Proctoru Guardian and Pearson VUE.
+## ⚡ Quick Start
+1. **Uninstall** existing VirtualBox/VMWare
+2. **Install** CloakBox (run as admin)
+3. **Create VM** with 80GB+ storage (.VDI format, SATA)
+4. **Install Windows 10** using Media Creation Tool ISO
+5. **Run scripts** in this order:
+   - `RUN ON PC.ps1` (on host)
+   - `RUN IN VM.ps1` (inside VM)
+   - `AntiOS.exe` (inside VM)
+   - `GPU Spoofer.exe` (inside VM)
+   - `VM CHECKER.ps1` (inside VM)
+   - `Pearson OnVUE.ps1` (inside VM if using OnVUE)
+
+<details>
+<summary>🖼️ Proof CloakBox Actually Works!</summary>
+
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/9f3ae77a-2bea-4824-bf3f-24556fb54045)
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/438c960f-f712-4016-8f92-0ad2c731a8bc)
-![image1](https://github.com/Batlez/HiddenVM/assets/63690709/17213a48-d6f3-4f82-87ac-2cb2f6f197f4)
-![image2](https://github.com/Batlez/HiddenVM/assets/63690709/47acefba-842b-4493-ad16-4709b9039dbc)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/93b09350-86ad-4fb9-966c-ed1f56a12f1e)
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/17213a48-d6f3-4f82-87ac-2cb2f6f197f4)
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/47acefba-842b-4493-ad16-4709b9039dbc)
 
-Important Notes
+</details>
 
-    Creator: I (Batlez) am not the original author of this software. It was created by Vektor T13.
-    Privacy Advantages: Unlike cloud-based anti-detect solutions:
-    Your personal data and activities are never collected or stored.
-    Your business ideas and strategies remain fully protected.
-    Comprehensive Identity Masking: This executable modifies system identifiers at hardware, and operating system to ensure a robust, undetectable identity.
+## 🎥 Need Help?
+- **Video Guide**: [YouTube Tutorial](https://www.youtube.com/watch?v=rk_TTvOCUtU)
+- **Discord Support**: **Croakq**
 
-Disclaimer: This tool is intended for ethical testing and research purposes.
+## ⚖️ Legal
+For ethical testing and research purposes only. Users responsible for compliance with local laws.
