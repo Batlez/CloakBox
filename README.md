@@ -13,6 +13,22 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
 ## 🎯 What it bypasses
 ✅ Examity | ✅ Respondus | ✅ Safe Exam Browser | ✅ ProctorU | ✅ Pearson VUE | ✅ Lockdown Browser | ✅ Honorlock | ✅ Guardian
 
+<details>
+<summary>Click ME to see pictures of Cloakbox bypassing</summary>
+   
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/9f3ae77a-2bea-4824-bf3f-24556fb54045)
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/438c960f-f712-4016-8f92-0ad2c731a8bc)
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/17213a48-d6f3-4f82-87ac-2cb2f6f197f4)
+![image](https://github.com/Batlez/HiddenVM/assets/63690709/47acefba-842b-4493-ad16-4709b9039dbc)
+
+</details>
+<details>
+<summary>Fix “Windows version not showing” when creating a VM</summary>
+
+**Disable** SV-IOR setting in your Motherboards BIOS as its a Virtualization issue
+</details>
+
 ## ⚡ Quick Start
 1. **Uninstall** existing VirtualBox/VMWare
 2. **Install** CloakBox (run as admin)
@@ -25,17 +41,6 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
    - `GPU Spoofer.exe` (inside VM)
    - `VM CHECKER.ps1` (inside VM)
    - `Pearson OnVUE.ps1` (inside VM if using OnVUE)
-
-<details>
-<summary>🖼️ Proof CloakBox Actually Works!</summary>
-
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/9f3ae77a-2bea-4824-bf3f-24556fb54045)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/438c960f-f712-4016-8f92-0ad2c731a8bc)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/17213a48-d6f3-4f82-87ac-2cb2f6f197f4)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/47acefba-842b-4493-ad16-4709b9039dbc)
-
-</details>
 
 ## 🎥 Need Help?
 - **Video Guide**: [YouTube Tutorial](https://www.youtube.com/watch?v=rk_TTvOCUtU)
