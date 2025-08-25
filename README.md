@@ -26,7 +26,7 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
 <details>
 <summary>Fix “Windows version not showing” when creating a VM</summary>
 
-**Disable** SV-IOR setting in your Motherboards BIOS as its a Virtualization issue
+**Disable** SV-IOV setting in your motherboard's BIOS, it should be under: PCI Configuration
 </details>
 
 ## ⚡ Quick Start
