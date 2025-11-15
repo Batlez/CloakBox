@@ -1,5 +1,7 @@
 # CloakBox - VM Detection Bypass 🛡️
 
+> **⚠️ NOTICE: This project is no longer being actively updated. For support questions, please contact Enver3268 on Discord.**
+
 **Bypass virtual machine detection using a custom VirtualBox fork**
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Batlez/CloakBox/total?style=for-the-badge)
@@ -24,7 +26,7 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
 
 </details>
 <details>
-<summary>Fix “Windows version not showing” when creating a VM</summary>
+<summary>Fix "Windows version not showing" when creating a VM</summary>
 
 **Disable** SV-IOV setting in your motherboard's BIOS, it should be under: PCI Configuration
 </details>
@@ -44,7 +46,7 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
 
 ## 🎥 Need Help?
 - **Video Guide**: [YouTube Tutorial](https://www.youtube.com/watch?v=rk_TTvOCUtU)
-- **Discord Support**: **Croakq**
+- **Discord Support**: **Enver3268**
 
 ## ⚖️ Legal
 For ethical testing and research purposes only. Users responsible for compliance with local laws.
