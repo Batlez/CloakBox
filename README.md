@@ -1,12 +1,12 @@
 # CloakBox - VM Detection Bypass 🛡️
 
-> **⚠️ NOTICE: This project is no longer being actively updated. For support questions, please contact Enver3268 on Discord.**
+> **⚠️ NOTICE: For support questions, please contact Enver3268 or Croakq on Discord.**
 
 **Bypass virtual machine detection using a custom VirtualBox fork**
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Batlez/CloakBox/total?style=for-the-badge)
 
-Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ Setup time: ~30 minutes
+Created by **Vektor T13** | Maintained by **Batlez** | Works in **2026!** | Setup time: **30 minutes**
 
 ## 📥 Download
 - **Primary**: [GitHub Releases](https://github.com/Batlez/CloakBox/releases)
@@ -25,11 +25,6 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
 ![image](https://github.com/Batlez/HiddenVM/assets/63690709/47acefba-842b-4493-ad16-4709b9039dbc)
 
 </details>
-<details>
-<summary>Fix "Windows version not showing" when creating a VM</summary>
-
-**Disable** SV-IOV setting in your motherboard's BIOS, it should be under: PCI Configuration
-</details>
 
 ## ⚡ Quick Start
 1. **Uninstall** existing VirtualBox/VMWare
@@ -37,16 +32,15 @@ Created by **Vektor T13** | Maintained by **Batlez** |⚡Works in 2025! |⏱️ 
 3. **Create VM** with 80GB+ storage (.VDI format, SATA)
 4. **Install Windows 10** using Media Creation Tool ISO
 5. **Run scripts** in this order:
-   - `RUN ON PC.ps1` (on host)
-   - `RUN IN VM.ps1` (inside VM)
+   - `RUN OUTSIDE VM.ps1` (on host)
+   - `RUN INSIDE VM.ps1` (inside VM)
    - `AntiOS.exe` (inside VM)
-   - `GPU Spoofer.exe` (inside VM)
    - `VM CHECKER.ps1` (inside VM)
    - `Pearson OnVUE.ps1` (inside VM if using OnVUE)
 
 ## 🎥 Need Help?
-- **Video Guide**: [YouTube Tutorial](https://www.youtube.com/watch?v=rk_TTvOCUtU)
-- **Discord Support**: **Enver3268**
+- **Video Guide**: [YouTube Tutorial](https://www.youtube.com/watch?v=CvfCVzrTnq4)
+- **Discord Support**: **Enver3268** or **Croakq**
 
 ## ⚖️ Legal
 For ethical testing and research purposes only. Users responsible for compliance with local laws.
