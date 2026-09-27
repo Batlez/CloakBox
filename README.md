@@ -1,6 +1,6 @@
 # CloakBox - VM Detection Bypass 🛡️
 
-> **⚠️ NOTICE: For support questions, please contact Croakq on Discord.**
+> **⚠️ NOTICE: For support questions, please contact Batlez on Discord.**
 
 **Bypass virtual machine detection using a custom VirtualBox fork**
 
@@ -70,7 +70,7 @@ Created by **Vektor T13** | Maintained by **Batlez** | Works in **2026!** | Setu
 
 ## 🎥 Need Help?
 - **Video Guide**: [YouTube Tutorial](https://www.youtube.com/watch?v=CvfCVzrTnq4)
-- **Discord Support**: **Croakq**
+- **Discord Support**: **Batlez**
 
 ## ⚖️ Legal
 For ethical testing and research purposes only. Users responsible for compliance with local laws.
